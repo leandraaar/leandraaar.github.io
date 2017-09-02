@@ -73,13 +73,10 @@ button:hover {
 	background-color:#b8c2b3;
 }
 
-.content {
-  background-color:000;
-  width:60%;
-}
+
 
 .wrapper{
-  width: 60%;
+  width: 80%;
   margin: 0 auto;
 }
 .header {
